@@ -18,7 +18,7 @@
     "sample-custom": "link://../../samples/custom/dist/",
     "@sample/material": "link://../../samples/material/dist/",
     "@sample/secondary": "link://../../samples/secondary/dist/",
-    "@angular/cdk": "~21.3.0-next",
+    "@angular/cdk": "~22.0.0-next",
     "@angular/common": "~22.0.0-next",
     "@angular/compiler": "~22.0.0-next",
     "@angular/core": "~22.0.0-next",
@@ -33,6 +33,6 @@
     "@angular/build": "~22.0.0-next",
     "@angular/cli": "~22.0.0-next",
     "@angular/compiler-cli": "~22.0.0-next",
-    "typescript": "~5.8.0"
+    "typescript": "~6.0.2"
   }
 }
